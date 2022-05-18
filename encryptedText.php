@@ -1,3 +1,4 @@
+<?php
 encodedStr("have a nice day");
 
 function encodedStr($str) {
